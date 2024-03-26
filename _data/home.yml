@@ -5,63 +5,42 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
-
 project_entries:
-  - title: Project 1
-    url: overview-post
+  - title: Grey Repo
+    url: https://github.com/TopRoupi/grey-hack-repo
     desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
-    url: overview-post
+  - title: Hacker Place
+    url: https://github.com/TopRoupi/hacker-place
     desc: Projects are shown in card layout
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: BattleBuff
+    url: https://youtu.be/La9JI8g31Ck
+    desc: Inhouse system for BattleRite made in Nodejs with Express and Socket.io. This was the final project I made when I was studying at ETEC, it was completed in time and with all the promised features delivered, unfortunally it is not up anymore beacause BattleRite died.
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: FEC
+    url: https://github.com/TopRoupi/fec
+    desc: Website also built with rails that was worked on for about 1 year on and off. The idea was to build a alternative to the URI online judge but tailored for the specific needs of the FATEC university.
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+  - title: Squiz
+    url: https://github.com/TopRoupi/squiz
+    desc: Yet another rails project I made as a challange to see if a game could made using only turbo + stimulusjs on the front and action cable on the back end to push new state to the client. This project was a success and proved that the stack can indeed be used to build highly interactive interfaces.
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: IronBranch
+    url: https://github.com/TopRoupi/iron-branch
+    desc: Website built with rails in about 1 to 2 weeks as a school project. the assignement was to build a system to control a participation(investment) tree of a company.
+
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: brenos's homepage
+    url: https://toproupi.github.io
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: mastodon
+    url: https://ruby.social/@roupi
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/toproupi
 
   - title: feed
     url: feed.xml
