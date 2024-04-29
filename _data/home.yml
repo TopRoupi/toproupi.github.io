@@ -7,12 +7,12 @@ navbar_entries:
 
 project_entries:
   - title: Grey Repo
-    url: https://github.com/TopRoupi/grey-hack-repo
-    desc: This is an example project, configured in _data/home.yml
+    url: greyrepo
+    desc: Repository website for players to share and find greyhack scripts.
 
   - title: Hacker Place
-    url: https://github.com/TopRoupi/hacker-place
-    desc: Projects are shown in card layout
+    url: hackerplace
+    desc: Web-based hacking game based on Hacker Experience 2 and Grey Hack, with a mix of idle game features, puzzle hacking missions, RPG and competitive gameplay.
 
 old_project_entries:
   - title: BattleBuff
