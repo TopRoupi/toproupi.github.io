@@ -17,9 +17,13 @@ ul.horizontal-list {
 
 }
 
+.post-list {
+  margin-bottom: 3rem;
+}
+
 .card {
   padding: 1em;
-  border: 1px var(--text) solid;
+  border: 1px rgba(255,255,255, 0.1) solid;
   width: 11em;
   height: auto;
   text-align: center;
@@ -41,6 +45,11 @@ ul.horizontal-list {
     margin: 0.5em 0;
   }
 
+}
+
+.full {
+  width: 100%;
+  text-align: left;
 }
 
 /* Responsive cards - one column layout on small screens */
