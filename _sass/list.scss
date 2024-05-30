@@ -17,6 +17,15 @@ ul.horizontal-list {
 
 }
 
+.vertical-list {
+  display: block;
+
+  a {
+    text-decoration: none;
+    font-weight: normal
+  }
+}
+
 .post-list {
   margin-bottom: 3rem;
 }
@@ -48,7 +57,7 @@ ul.horizontal-list {
 }
 
 .full {
-  width: 100%;
+  width: auto;
   text-align: left;
 }
 
